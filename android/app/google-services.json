@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999828762300",
+    "project_id": "rochat-fc207",
+    "storage_bucket": "rochat-fc207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999828762300:android:a86c05febb7ecb0084eab9",
+        "android_client_info": {
+          "package_name": "com.example.rochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999828762300-n3lsho8r199bqeptd67mp96udf31o142.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNIi2ACqkBm6K_NH1xUkxKcmSIKzdaUmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999828762300-n3lsho8r199bqeptd67mp96udf31o142.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
